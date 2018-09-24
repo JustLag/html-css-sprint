@@ -1,1 +1,25 @@
-/* TODO: write your design in CSS */
+body{
+  background: rgb(143, 143, 143);
+  color: blue;
+  font-size: 25px;
+  font-family: 'Cedarville Cursive', cursive;
+}
+h1{
+  font-family: 'Cedarville Cursive', cursive;
+  color: blue;
+  font-weight: lighter;
+  font-size: 20;
+}
+h2 {
+  font-family: 'Cedarville Cursive', cursive; 
+  color: blue;
+  font-weight: lighter;
+  font-size: 20px
+}
+a {
+  color: orange;
+}
+a:hover {
+  text-decoration: none;
+  color: orange;
+}
